@@ -1,0 +1,36 @@
+/* Style the whole page */
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f7;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background: #4c6ef5;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Content section */
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+/* Button styling */
+.btn {
+    background: #4c6ef5;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background: #364fc7;
+}
